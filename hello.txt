@@ -1,8 +1,11 @@
 hello at guigu ! hello git
 good night 11111111
+<<<<<<< HEAD
 hello git add hello.txt
 
 
 
 
 hello"master conflict test"
+
+kkkkkkkkk"j-v"
